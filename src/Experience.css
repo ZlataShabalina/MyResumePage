@@ -1,0 +1,9 @@
+.container{
+    margin-top: 50px;
+    
+}
+.container .experience h2{
+    color: white;
+    margin-left: -50px;
+    font-size: 3em;
+}

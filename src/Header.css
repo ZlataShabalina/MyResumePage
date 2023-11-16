@@ -1,0 +1,63 @@
+.accordion-header {
+  font-size: 3em; 
+  margin-left: 0px;
+  margin-right: 0px;
+  color: rgb(8, 8, 74);
+  background-color: white;
+  
+}
+.accordion-body{
+  background-color: rgb(8, 8, 110);
+  color: white;
+  font-size: 1em;
+  margin-left: 0px;
+  margin-right: 0px;
+}
+.skills{
+  margin-top: 100px;
+  margin-left: 300px;
+  margin-right: 300px;
+  margin-bottom: 140px;
+}
+h1{
+  font-size: 5em;
+  margin-top: 200px;
+  margin-left: 470px;
+  color: lightblue;
+}
+.skills h2{
+  font-size: 4em;
+  margin-left: 300px;
+  color: lightblue; 
+}
+.skills .skill-container .more-button{
+  display: inline-block;
+    padding: 10px 20px;
+    margin: 10px;
+    border: none;
+    border-radius: 5px;
+    text-align: center;
+    text-decoration: none;
+    background-color: transparent; 
+    color: rgb(255, 255, 255); 
+    border: 1px solid white;
+    font-size: 18px;
+    cursor: pointer;
+    transition: background-color 0.7s;
+}
+
+.skills .skill-container .more-button:hover{
+  background-color: rgb(255, 255, 255);
+    color: rgb(17, 17, 118);
+    
+}
+.skills .skill-container h3{
+  color: white;
+  margin-top: 10px;
+  margin-left: -200px;
+}
+.skills .skill-container .skill-details p{
+  color: white;
+  font-size: 1em;
+  margin-top: -25px;
+}
